@@ -1,0 +1,16 @@
+warp://188.114.97.192:939/?ifp=5-10#Telegram@PAYAM_NSI
+
+warp://188.114.97.201:1018/?ifp=5-10#Telegram@PAYAM_NSI 
+
+warp://188.114.97.189:939/?ifp=5-10#Telegram@PAYAM_NSI
+
+warp://162.159.192.109:955/?ifp=5-10#Telegram@PAYAM_NSI
+
+warp://[2606:4700:d1::10c0:2529:a40e:a28d]:943/?ifp=5-10#Telegram@PAYAM_NSI
+
+warp://[2606:4700:d1::15cd:306a:4ba:a7f1]:945/?ifp=5-10#Telegram@PAYAM_NSI
+
+warp://[2606:4700:d1::15b8:82eb:d40c:9a55]:945/?ifp=5-10#Telegram@PAYAM_NSI
+
+warp://[2606:4700:d0::3f69:2f9f:e677:9325]:8854/?ifp=5-10#Telegram@PAYAM_NSI
+
